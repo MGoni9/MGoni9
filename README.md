@@ -1,13 +1,11 @@
-#  👋  *Hi, I’m María Goñi (@MGoni9)*
-![Imagen portada]()
 
--    I'm student of Web Application Development
-- 👀 I’m interested in learn Python, Java, CSS, PHP
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Imagen portada](mgonifoto.png)
+
+Hi, I’m María Goñi (@MGoni9)
+I'm from Madrid, I'm student of Web Application Development. I’m interested in learn Python, Java, CSS, PHP, Javascript and others.
+
+
+
 
 <!---
 MGoni9/MGoni9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
