@@ -12,7 +12,7 @@ I've been interested in programming for years, and I've finally decided to get f
 I'm here to learn Python, Java, CSS, PHP, Javascript, and more.
   
 
-Best regards. 🤘
+🤘🤘🤘
 
 
 
