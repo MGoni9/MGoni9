@@ -1,5 +1,5 @@
 
-![Imagen portada](mgonifoto.png)
+![Imagen portada](cat-computer.gif)
 
 ## About me.
 
