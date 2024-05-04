@@ -1,9 +1,8 @@
+##Hi, I’m María Goñi (@MGoni9).
 
 ![Imagen portada](cat-computer.gif)
 
 ## About me.
-
-Hi, I’m María Goñi (@MGoni9)
 
 I'm from Madrid, and I'm currently studying Web Application Development at UAX. 
 
