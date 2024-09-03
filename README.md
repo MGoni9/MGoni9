@@ -1,4 +1,4 @@
-![Imagen portada](banner.png)
+![Imagen portada](Banner.png)
 
 ## Hi, I’m María Goñi (@MGoni9).
 
