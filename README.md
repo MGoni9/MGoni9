@@ -1,6 +1,6 @@
-## Hi, I’m María Goñi (@MGoni9).
+![Imagen portada](banner.png)
 
-![Imagen portada](kitten-cat.gif)
+## Hi, I’m María Goñi (@MGoni9).
 
 ## About me.
 
@@ -19,7 +19,7 @@ I'm here to learn Python, Java, CSS, PHP, Javascript, and more.
 
 ## Acerca del proyecto
 
-Este proyecto ha sido para empezar a usar GitHub así que no esperéis nada impresionante, varias cosas aleatorias sin conexión (como mi vida).
+Este proyecto ha sido para empezar a usar GitHub así que no esperéis nada impresionante, varias cosas aleatorias sin conexión.
 
 ## Puntos clave
 
